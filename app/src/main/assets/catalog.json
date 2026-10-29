@@ -1,0 +1,20 @@
+{
+  "note": "Starter catalog only. GitHub Actions replaces this with the complete current SCP catalog before building the APK.",
+  "entries": {
+    "scp-049": {
+      "link": "scp-049", "scp": "SCP-049", "title": "Plague Doctor", "url": "https://scp-wiki.wikidot.com/scp-049", "tags": ["euclid"], "images": [], "content_file": "", "summary": "A humanoid entity resembling a medieval plague doctor. It believes it can detect a mysterious 'Pestilence' and seeks to cure those it considers afflicted."
+    },
+    "scp-096": {
+      "link": "scp-096", "scp": "SCP-096", "title": "The Shy Guy", "url": "https://scp-wiki.wikidot.com/scp-096", "tags": ["euclid"], "images": [], "content_file": "", "summary": "A tall, pale humanoid that becomes extremely distressed when someone sees its face, whether directly or in an image."
+    },
+    "scp-173": {
+      "link": "scp-173", "scp": "SCP-173", "title": "The Sculpture", "url": "https://scp-wiki.wikidot.com/scp-173", "tags": ["euclid"], "images": [], "content_file": "", "summary": "An anomalous sculpture that can move when it is not being directly observed. Personnel must maintain visual contact during containment work."
+    },
+    "scp-682": {
+      "link": "scp-682", "scp": "SCP-682", "title": "Hard-to-Destroy Reptile", "url": "https://scp-wiki.wikidot.com/scp-682", "tags": ["keter"], "images": [], "content_file": "", "summary": "A highly intelligent, aggressive reptilian entity known for extraordinary survival and adaptation. The Foundation has repeatedly attempted to neutralize it."
+    },
+    "scp-999": {
+      "link": "scp-999", "scp": "SCP-999", "title": "The Tickle Monster", "url": "https://scp-wiki.wikidot.com/scp-999", "tags": ["safe"], "images": [], "content_file": "", "summary": "A friendly orange gelatinous creature with a playful temperament. Interactions with it are often associated with improved mood and reduced distress."
+    }
+  }
+}
